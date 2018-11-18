@@ -23,4 +23,6 @@ Projet composé de plusieurs parties :
 
 ### Auteurs de la bistro-matic
 
-* **Cyril Beigard** **Antoine Maillard** **Théo Cerutti**
+* **Cyril Begard**  
+* **Antoine Maillard**  
+* **Théo Cerutti**
