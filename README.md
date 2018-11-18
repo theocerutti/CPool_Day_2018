@@ -13,7 +13,7 @@ Projets : Tree, match-nmatch, Bistro-matic : les plus gros projets de la piscine
 ## Bistro-matic
 
 Projet par groupes de 3.
-Le principe de ce projet est de créer une calculette gérant aisément les nombres infinis.
+Le principe de ce projet est de créer une calculette gérant aisément les nombres infinis.  
 Projet composé de plusieurs parties :  
 - evalexpr  
 - infinadd/less    
