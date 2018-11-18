@@ -1,0 +1,478 @@
+2BIG
+Liste d'arguments trop longue (POSIX.1).
+EACCES
+Permission refusée (POSIX.1)
+EADDRINUSE
+Adresse déjà en cours d'utilisation (POSIX.1)
+EADDRNOTAVAIL
+Adresse non disponible (POSIX.1)
+EAFNOSUPPORT
+Famille d'adresses non supportée (POSIX.1)
+EAGAIN
+Ressource temporairement indisponible (peut être la même valeur que EWOULDBLOCK) (POSIX.1)
+EALREADY
+Connexion déjà en cours (POSIX.1)
+EBADE
+Échange invalide.
+EBADF
+Mauvais descripteur de fichier (POSIX.1)
+EBADFD
+Descripteur de fichier en mauvais état
+EBADMSG
+Mauvais message (POSIX.1)
+EBADR
+Descripteur de requête invalide
+EBADRQC
+Code de requête invalide
+EBADSLT
+Emplacement (Ndt : slot) invalide
+EBUSY
+Ressource ou périphérique occupé (POSIX.1)
+ECANCELED
+Opération annulée (POSIX.1)
+ECHILD
+Pas de processus fils (POSIX.1)
+ECHRNG
+Numéro de canal hors d'intervalle
+ECOMM
+Erreur de communication à l'envoi
+ECONNABORTED
+Connexion abandonnée (POSIX.1)
+ECONNREFUSED
+Connexion refusée (POSIX.1)
+ECONNRESET
+Connexion réinitialisée (POSIX.1)
+EDEADLK
+Blocage d'une ressource évité (POSIX.1)
+EDEADLOCK
+Synonyme de EDEADLK
+EDESTADDRREQ
+Adresse de destination nécessaire (POSIX.1)
+EDOM
+Argument mathématique hors du domaine de définition de la fonction (POSIX.1, C99)
+EDQUOT
+Quota disque dépassé (POSIX.1)
+EEXIST
+Fichier existant (POSIX.1)
+EFAULT
+Mauvaise adresse (POSIX.1)
+EFBIG
+Fichier trop grand (POSIX.1)
+EHOSTDOWN
+Hôte éteint.
+EHOSTUNREACH
+Hôte non accessible (POSIX.1)
+EIDRM
+Identificateur supprimé (POSIX.1)
+EILSEQ
+Séquence d'octets illégale (POSIX.1, C99)
+EINPROGRESS
+Opération en cours (POSIX.1)
+EINTR
+Appel système interrompu (POSIX.1) ; voir signal(7)
+EINVAL
+Argument invalide (POSIX.1)
+EIO
+Erreur d'entrée-sortie (POSIX.1)
+EISCONN
+La socket est connectée (POSIX.1)
+EISDIR
+Est un répertoire (POSIX.1)
+EISNAM
+Est un fichier de type nommé
+EKEYEXPIRED
+La clé a expiré.
+EKEYREJECTED
+La clé a été rejetée par le service
+EKEYREVOKED
+La clé a été révoquée
+EL2HLT
+Niveau 2 arrêté
+EL2NSYNC
+Niveau 2 non synchronisé
+EL3HLT
+Niveau 3 arrêté
+EL3RST
+Niveau 3 arrêté
+ELIBACC
+Impossible d'accéder à une bibliothèque partagée requise
+ELIBBAD
+Accès à une bibliothèque partagée corrompue
+ELIBMAX
+Tentative de lier avec trop de bibliothèques partagées
+ELIBSCN
+Section lib dans a.out corrompue
+ELIBEXEC
+Impossible d'exécuter directement une bibliothèque partagée
+ELOOP
+Trop de niveaux de liens symboliques rencontrés (POSIX.1)
+EMEDIUMTYPE
+Mauvais type de medium
+EMFILE
+Trop de fichiers ouverts (POSIX.1)
+EMLINK
+Trop de liens symboliques (POSIX.1)
+EMSGSIZE
+Message trop long (POSIX.1)
+EMULTIHOP
+Tentative de saut multiple « Multihop  » (POSIX.1)
+ENAMETOOLONG
+Nom de fichier trop long (POSIX.1)
+ENETDOWN
+Le réseau est désactivé (POSIX.1)
+ENETRESET
+Connexion annulée par le réseau (POSIX.1)
+ENETUNREACH
+Réseau inaccessible (POSIX.1)
+ENFILE
+Trop de fichiers ouverts sur le système (POSIX.1)
+ENOBUFS
+Plus de tampons disponibles (POSIX.1 (XSI STREAMS option))
+ENODATA
+Pas de message disponible dans la file STREAM (POSIX.1)
+ENODEV
+Périphérique inexistant (POSIX.1)
+ENOENT
+Fichier ou répertoire inexistant (POSIX.1)
+ENOEXEC
+Erreur de format d'exécution (POSIX.1)
+ENOKEY
+La clé requise n'est pas disponible
+ENOLCK
+Pas de verrou disponible (POSIX.1)
+ENOLINK
+Le lien a été coupé (POSIX.1)
+ENOMEDIUM
+Aucun medium trouvé.
+ENOMEM
+Pas assez de mémoire (POSIX.1)
+ENOMSG
+Pas de message du type attendu (POSIX.1)
+ENONET
+La machine n'est pas sur le réseau
+ENOPKG
+Le paquet n'est pas installé
+ENOPROTOOPT
+Protocole indisponible (POSIX.1)
+ENOSPC
+Plus de place sur le périphérique (POSIX.1)
+ENOSR
+Pas de ressource STREAM (POSIX.1 (option STREAMS XSI))
+ENOSTR
+Pas un STREAM (POSIX.1 (option STREAMS XSI))
+ENOSYS
+Fonction non implémentée (POSIX.1)
+ENOTBLK
+Périphérique de bloc requis
+ENOTCONN
+La socket n'est pas connectée (POSIX.1)
+ENOTDIR
+Pas un répertoire (POSIX.1)
+ENOTEMPTY
+Répertoire non vide (POSIX.1)
+ENOTSOCK
+Pas une socket (POSIX.1)
+ENOTSUP
+Opération non supportée (POSIX.1)
+ENOTTY
+Opération de contrôle d'entrée-sortie invalide (POSIX.1)
+ENOTUNIQ
+Le nom sur le réseau n'est pas unique
+ENXIO
+Périphérique ou adresse inexistant (POSIX.1)
+EOPNOTSUPP
+Opération non supportée par la socket (POSIX.1)
+
+EOVERFLOW
+Valeur trop grande être stocké dans ce type de donnée (POSIX.1)
+EPERM
+Opération interdite (POSIX.1)
+EPFNOSUPPORT
+Famille de protocole non supportée
+EPIPE
+Tube brisé (POSIX.1)
+EPROTO
+Erreur de protocole (POSIX.1)
+EPROTONOSUPPORT
+Protocole non supporté (POSIX.1)
+EPROTOTYPE
+Mauvais type de protocole pour la socket (POSIX.1)
+ERANGE
+Résultat trop grand (POSIX.1, C99)
+EREMCHG
+L'adresse distante a changé
+EREMOTE
+L'objet est distant
+EREMOTEIO
+Erreur d'entrées-sorties distante
+ERESTART
+L'appel système interrompu devrait être relancé
+EROFS
+Système de fichiers en lecture seule (POSIX.1)
+ESHUTDOWN
+Impossible d'envoyer après l'arrêt du point final du transport
+ESPIPE
+Recherche invalide (POSIX.1)
+ESOCKTNOSUPPORT
+Type de socket non supporté
+ESRCH
+Processus inexistant.
+ESTALE
+Descripteur de fichier éventé (POSIX.1)
+Cette erreur peut se produire pour NFS et d'autres systèmes de fichiers.
+
+ESTRPIPE
+Erreur de tube flux
+ETIME
+Temporisation expirée (POSIX.1 (XSI STREAMS option))
+(POSIX.1 dit « Dépassement du délai ioctl(2) STREAM ».
+
+ETIMEDOUT
+Délai maximal de connexion écoulé (POSIX.1)
+ETXTBSY
+Fichier texte occupé
+EUCLEAN
+La structure a besoin d'être nettoyée
+EUNATCH
+Le pilote de protocole n'est pas attaché
+EUSERS
+Trop d'utilisateurs
+EWOULDBLOCK
+L'opération serait bloquante (même valeur que EAGAIN) (POSIX.1)
+EXDEV
+Lien inapproprié (POSIX.1)
+EXFULL
+Échange complet
+
+NOTES
+Une erreur fréquente est de faire
+
+if (unappel() == -1) {
+    printf("unappel() a échoué\n");
+    if (errno == ...) { ... }
+}
+
+Descripteur de requête invalide
+EBADRQC
+Code de requête invalide
+EBADSLT
+Emplacement (Ndt : slot) invalide
+EBUSY
+Ressource ou périphérique occupé (POSIX.1)
+ECANCELED
+Opération annulée (POSIX.1)
+ECHILD
+Pas de processus fils (POSIX.1)
+ECHRNG
+Numéro de canal hors d'intervalle
+ECOMM
+Erreur de communication à l'envoi
+ECONNABORTED
+Connexion abandonnée (POSIX.1)
+ECONNREFUSED
+Connexion refusée (POSIX.1)
+ECONNRESET
+Connexion réinitialisée (POSIX.1)
+EDEADLK
+Blocage d'une ressource évité (POSIX.1)
+EDEADLOCK
+Synonyme de EDEADLK
+EDESTADDRREQ
+Adresse de destination nécessaire (POSIX.1)
+EDOM
+Argument mathématique hors du domaine de définition de la fonction (POSIX.1, C99)
+EDQUOT
+Quota disque dépassé (POSIX.1)
+EEXIST
+Fichier existant (POSIX.1)
+EFAULT
+Mauvaise adresse (POSIX.1)
+EFBIG
+Fichier trop grand (POSIX.1)
+EHOSTDOWN
+Hôte éteint.
+EHOSTUNREACH
+Hôte non accessible (POSIX.1)
+EIDRM
+Identificateur supprimé (POSIX.1)
+EILSEQ
+Séquence d'octets illégale (POSIX.1, C99)
+EINPROGRESS
+Opération en cours (POSIX.1)
+EINTR
+Appel système interrompu (POSIX.1) ; voir signal(7)
+EINVAL
+Argument invalide (POSIX.1)
+EIO
+Erreur d'entrée-sortie (POSIX.1)
+EISCONN
+La socket est connectée (POSIX.1)
+EISDIR
+Est un répertoire (POSIX.1)
+EISNAM
+Est un fichier de type nommé
+EKEYEXPIRED
+La clé a expiré.
+EKEYREJECTED
+La clé a été rejetée par le service
+EKEYREVOKED
+La clé a été révoquée
+EL2HLT
+Niveau 2 arrêté
+EL2NSYNC
+Niveau 2 non synchronisé
+EL3HLT
+Niveau 3 arrêté
+EL3RST
+Niveau 3 arrêté
+ELIBACC
+Impossible d'accéder à une bibliothèque partagée requise
+ELIBBAD
+Accès à une bibliothèque partagée corrompue
+ELIBMAX
+Tentative de lier avec trop de bibliothèques partagées
+ELIBSCN
+Section lib dans a.out corrompue
+ELIBEXEC
+Impossible d'exécuter directement une bibliothèque partagée
+ELOOP
+Trop de niveaux de liens symboliques rencontrés (POSIX.1)
+EMEDIUMTYPE
+Mauvais type de medium
+EMFILE
+Trop de fichiers ouverts (POSIX.1)
+EMLINK
+Trop de liens symboliques (POSIX.1)
+EMSGSIZE
+Message trop long (POSIX.1)
+EMULTIHOP
+Tentative de saut multiple « Multihop  » (POSIX.1)
+ENAMETOOLONG
+Nom de fichier trop long (POSIX.1)
+ENETDOWN
+Le réseau est désactivé (POSIX.1)
+ENETRESET
+Connexion annulée par le réseau (POSIX.1)
+ENETUNREACH
+Réseau inaccessible (POSIX.1)
+ENFILE
+Trop de fichiers ouverts sur le système (POSIX.1)
+ENOBUFS
+Plus de tampons disponibles (POSIX.1 (XSI STREAMS option))
+ENODATA
+Pas de message disponible dans la file STREAM (POSIX.1)
+ENODEV
+Périphérique inexistant (POSIX.1)
+ENOENT
+Fichier ou répertoire inexistant (POSIX.1)
+ENOEXEC
+Erreur de format d'exécution (POSIX.1)
+ENOKEY
+La clé requise n'est pas disponible
+ENOLCK
+Pas de verrou disponible (POSIX.1)
+ENOLINK
+Le lien a été coupé (POSIX.1)
+ENOMEDIUM
+Aucun medium trouvé.
+ENOMEM
+Pas assez de mémoire (POSIX.1)
+ENOMSG
+Pas de message du type attendu (POSIX.1)
+ENONET
+La machine n'est pas sur le réseau
+ENOPKG
+Le paquet n'est pas installé
+ENOPROTOOPT
+Protocole indisponible (POSIX.1)
+ENOSPC
+Plus de place sur le périphérique (POSIX.1)
+ENOSR
+Pas de ressource STREAM (POSIX.1 (option STREAMS XSI))
+ENOSTR
+Pas un STREAM (POSIX.1 (option STREAMS XSI))
+ENOSYS
+Fonction non implémentée (POSIX.1)
+ENOTBLK
+Périphérique de bloc requis
+ENOTCONN
+La socket n'est pas connectée (POSIX.1)
+ENOTDIR
+Pas un répertoire (POSIX.1)
+ENOTEMPTY
+Répertoire non vide (POSIX.1)
+ENOTSOCK
+Pas une socket (POSIX.1)
+ENOTSUP
+Opération non supportée (POSIX.1)
+ENOTTY
+$
+
+EOVERFLOW
+Valeur trop grande être stocké dans ce type de donnée (POSIX.1)
+EPERM
+Opération interdite (POSIX.1)
+EPFNOSUPPORT
+Famille de protocole non supportée
+EPIPE
+Tube brisé (POSIX.1)
+EPROTO
+Erreur de protocole (POSIX.1)
+EPROTONOSUPPORT
+Protocole non supporté (POSIX.1)
+EPROTOTYPE
+Mauvais type de protocole pour la socket (POSIX.1)
+ERANGE
+Résultat trop grand (POSIX.1, C99)
+EREMCHG
+L'adresse distante a changé
+EREMOTE
+L'objet est distant
+EREMOTEIO
+Erreur d'entrées-sorties distante
+ERESTART
+L'appel système interrompu devrait être relancé
+EROFS
+Système de fichiers en lecture seule (POSIX.1)
+ESHUTDOWN
+Impossible d'envoyer après l'arrêt du point final du transport
+ESPIPE
+Recherche invalide (POSIX.1)
+ESOCKTNOSUPPORT
+Type de socket non supporté
+ESRCH
+Processus inexistant.
+ESTALE
+Descripteur de fichier éventé (POSIX.1)
+Cette erreur peut se produire pour NFS et d'autres systèmes de fichiers.
+
+ESTRPIPE
+Erreur de tube flux
+ETIME
+Temporisation expirée (POSIX.1 (XSI STREAMS option))
+(POSIX.1 dit « Dépassement du délai ioctl(2) STREAM ».
+
+ETIMEDOUT
+Délai maximal de connexion écoulé (POSIX.1)
+ETXTBSY
+Fichier texte occupé
+EUCLEAN
+La structure a besoin d'être nettoyée
+EUNATCH
+Le pilote de protocole n'est pas attaché
+EUSERS
+Trop d'utilisateurs
+EWOULDBLOCK
+L'opération serait bloquante (même valeur que EAGAIN) (POSIX.1)
+EXDEV
+Lien inapproprié (POSIX.1)
+EXFULL
+Échange complet
+
+NOTES
+Une erreur fréquente est de faire
+
+if (unappel() == -1) {
+    printf("unappel() a échoué\n");
+    if (errno == ...) { ... }
+}
