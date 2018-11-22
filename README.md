@@ -2,26 +2,25 @@
 
 ## Description
 
-Voici tous les projets réalisé pendant la piscine d'Epitech Montpellier.
+All CPool_Project from Epitech Montpellier.
 
 ### Types de projets
 
-Rush : Projet à faire en groupe de deux. 1 demi-journée pour faire le projet.  
-Days : Exercices du jour, apprentissage de nouvelles notions.
-Projets : Tree, match-nmatch, Bistro-matic : les plus gros projets de la piscine, bistro-matic étant le projet final de cette piscine.  
-
+Rush : Project to do in groups of two. 8h to do the project.  
+Days : Daily exercices -> learn new concepts  
+Projets : Tree, match-nmatch, Bistro-matic : the biggest projects of CPool, bistro-matic being the final project of this Pool.  
 ## Bistro-matic
 
-Projet par groupes de 3.
-Le principe de ce projet est de créer une calculette gérant aisément les nombres infinis.  
-Projet composé de plusieurs parties :  
+Project in groups of 3.  
+The goal of this project is to create a calculator managing infinite numbers.  
+Project composed in some parts:
 - evalexpr  
 - infinadd/less    
 - infinmult
 - infindiv
 - infinmodul
 
-### Auteurs de la bistro-matic
+### Authors of the Bistro-matic
 
 * **Cyril Begard**  
 * **Antoine Maillard**  
